@@ -7,7 +7,7 @@ The license used by this project is the [Supercell Fankit](https://fankit.superc
 If you would like to use any of these assets, source them from the Fankit, not my Github repository. 
 
 <p align="center>
-  <img src="https://github.com/cartoon9873/iron-brawl/blob/main/images/fankit.png?raw=true">
+  <img src="[https://github.com/cartoon9873/iron-brawl/blob/main/images/fankit.png?raw=true](https://raw.githubusercontent.com/cartoon9873/iron-brawl/main/images/fankit.png?token=GHSAT0AAAAAACW35A7FOIGUGXFZ5CCA5UGCZWUSNOQ)">
 </p>
 
 # Thank you!
