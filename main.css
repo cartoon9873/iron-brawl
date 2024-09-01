@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+h1 {
+    font-family: 'Lilita One', 'Courier New', Courier, monospace;
+}
+
+h2 {
+    font-family: 'Lilita One', 'Courier New', Courier, monospace;
+}
+
+.banner {
+    display: flex;
+    width: 100%;
+    height: 60px;
+    align-items: center;
+}
+
+.banner-left, .banner-right {
+    height: 100%;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+.banner-mid {
+    flex-grow: 1; 
+    background-repeat: repeat-x; 
+    background-size: contain;
+    height: 100%; 
+}
+
+#rareLeft {
+    background-image: url('images/banners/rare-banner-left.png');
+    width: 191px;
+}
+
+#rareMid {
+    background-image: url('images/banners/rare-banner-mid.png');
+}
+
+#rareRight {
+    background-image: url('images/banners/rare-banner-right.png');
+    width: 41px
+}
+
+#superRareLeft {
+    background-image: url('images/banners/super-rare-banner-left.png');
+    width: 355px;
+}
+
+#superRareMid {
+    background-image: url('images/banners/super-rare-banner-mid.png');
+}
+
+#superRareRight {
+    background-image: url('images/banners/super-rare-banner-right.png');
+    width: 37px
+}
+
+#epicLeft {
+    background-image: url('images/banners/epic-banner-left.png');
+    width: 177px;
+}
+
+#epicMid {
+    background-image: url('images/banners/epic-banner-mid.png');
+}
+
+#epicRight {
+    background-image: url('images/banners/epic-banner-right.png');
+    width: 37px
+}
+
+#mythicLeft {
+    background-image: url('images/banners/mythic-banner-left.png');
+    width: 264px;
+}
+
+#mythicMid {
+    background-image: url('images/banners/mythic-banner-mid.png');
+}
+
+#mythicRight {
+    background-image: url('images/banners/mythic-banner-right.png');
+    width: 35px
+}
+
+#legendaryLeft {
+    background-image: url('images/banners/legendary-banner-left.png');
+    width: 346px;
+}
+
+#legendaryMid {
+    background-image: url('images/banners/legendary-banner-mid.png');
+}
+
+#legendaryRight {
+    background-image: url('images/banners/legendary-banner-right.png');
+    width: 34px
+}
